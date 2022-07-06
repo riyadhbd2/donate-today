@@ -28,9 +28,7 @@ body{
     margin: 10%;
     text-align: center;
 }
-.section-two-part-two{
-    display: flex;
-}
+
 .part-two-box{
     margin-left: 5%;
     margin-right: 5%;
@@ -47,7 +45,7 @@ body{
     text-align: center;
     margin: 5%;
 }
-.section-three-part-two{
+.section-display{
     display: flex;
 }
 .part-two-plan{
@@ -71,9 +69,7 @@ body{
 .bonus-section-part-one{
     text-align: center;
 }
-.bonus-section-part-two{
-    display: flex;
-}
+
 .part-two-news{
     margin: 20px;
     padding: 20px;
