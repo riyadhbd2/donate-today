@@ -22,4 +22,23 @@ body{
     background-image: linear-gradient(orange, tomato);
     padding: 10px;
     border-radius: 10px;
+
+}
+.section-two{
+    margin: 10%;
+    text-align: center;
+}
+.section-two-part-two{
+    display: flex;
+}
+.part-two-box{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    color: gray;
+}
+#box-color{
+    border: 2px solid red;
+    background-color:darkseagreen;
+    color: blueviolet;
 }
