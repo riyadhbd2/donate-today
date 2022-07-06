@@ -12,7 +12,7 @@ body{
     color: white;
     padding-top: 8%;
 }
-.main-head{
+.first-head{
     font-size: 30px;
     font-weight: 900;
 }
@@ -22,9 +22,9 @@ body{
     background-image: linear-gradient(orange, tomato);
     padding: 10px;
     border-radius: 10px;
-
+    
 }
-.section-two{
+.second-section{
     margin: 10%;
     text-align: center;
 }
@@ -41,4 +41,29 @@ body{
     border: 2px solid red;
     background-color:darkseagreen;
     color: blueviolet;
+}
+.section-three-part-one{
+    text-align: center;
+    margin: 5%;
+}
+.section-three-part-two{
+    display: flex;
+}
+.part-two-plan{
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.color-one{
+    background-color: darkgrey;
+}
+.color-two{
+    background-color: bisque;
+}
+.color-three{
+    background-color: darkseagreen
+}
+.second-head{
+    font-size: 20px;
+    font-weight: 900;
 }
