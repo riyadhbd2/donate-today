@@ -67,3 +67,13 @@ body{
     font-size: 20px;
     font-weight: 900;
 }
+.bonus-section-part-one{
+    text-align: center;
+}
+.bonus-section-part-two{
+    display: flex;
+}
+.part-two-news{
+    margin: 20px;
+    padding: 10px;
+}
