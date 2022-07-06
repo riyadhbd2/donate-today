@@ -19,7 +19,7 @@ body{
 .link-button{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(orange, tomato);
+    background-color: tomato;
     padding: 10px;
     border-radius: 10px;
     
@@ -86,6 +86,11 @@ body{
 .fifth-section-part-two{
     background-color: lightblue;
     padding: 50px;
+}
+.button{
+    background-color: tomato;
+    padding: 2px;
+    color: white;
 }
 footer{
     text-align: center;
